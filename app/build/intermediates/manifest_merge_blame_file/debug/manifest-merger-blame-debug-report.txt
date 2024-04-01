@@ -1,0 +1,282 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.root.fire_major_notification"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:5:5-76
+11-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:5:22-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:6:5-67
+12-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:5:5-76
+13-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:5:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:8:5-79
+14-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+15-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:9:5-86
+15-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:9:22-83
+16    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+16-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:10:5-76
+16-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:10:22-73
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:11:5-81
+17-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:12:5-79
+18-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:12:22-76
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:21:5-67
+19-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:21:22-65
+20    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+20-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:22:5-81
+20-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:22:22-79
+21
+22    <permission
+22-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:24:5-109
+23        android:name="com.example.root.fire_major_notification.permission.C2D_MESSAGE"
+23-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:24:17-71
+24        android:protectionLevel="signature" />
+24-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:24:72-107
+25
+26    <uses-permission android:name="com.example.root.fire_major_notification.permission.C2D_MESSAGE" />
+26-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:26:5-78
+26-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:26:22-76
+27
+28    <application
+28-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:14:5-51:19
+29        android:allowBackup="true"
+29-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:15:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.8.0] C:\Users\anhqu\.gradle\caches\transforms-3\204d4204599e6909821154cf495a9381\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:extractNativeLibs="false"
+33        android:icon="@drawable/groceries"
+33-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:16:9-43
+34        android:label="@string/app_name"
+34-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:17:9-41
+35        android:roundIcon="@drawable/groceries"
+35-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:18:9-48
+36        android:supportsRtl="true"
+36-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:19:9-35
+37        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+37-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:20:9-65
+38        <activity
+38-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:21:9-23:40
+39            android:name="com.example.root.fire_major_notification.dkNhanvien"
+39-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:22:13-39
+40            android:exported="false" />
+40-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:23:13-37
+41        <activity
+41-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:24:9-26:40
+42            android:name="com.example.root.fire_major_notification.LsHoadon"
+42-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:25:13-37
+43            android:exported="false" />
+43-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:26:13-37
+44        <activity
+44-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:27:9-29:40
+45            android:name="com.example.root.fire_major_notification.gianhang"
+45-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:28:13-37
+46            android:exported="false" />
+46-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:29:13-37
+47        <activity
+47-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:30:9-32:40
+48            android:name="com.example.root.fire_major_notification.AddMember"
+48-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:31:13-38
+49            android:exported="false" />
+49-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:32:13-37
+50        <activity
+50-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:33:9-35:40
+51            android:name="com.example.root.fire_major_notification.Menu"
+51-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:34:13-33
+52            android:exported="false" />
+52-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:35:13-37
+53        <activity
+53-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:36:9-38:40
+54            android:name="com.example.root.fire_major_notification.qrcodeActivity"
+54-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:37:13-43
+55            android:exported="false" />
+55-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:38:13-37
+56        <activity
+56-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:39:9-41:40
+57            android:name="com.example.root.fire_major_notification.lichsucua"
+57-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:40:13-38
+58            android:exported="false" /> <!-- <activity android:name=".MainActivity"> -->
+58-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:41:13-37
+59        <activity
+59-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:42:9-50:20
+60            android:name="com.example.root.fire_major_notification.login"
+60-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:43:13-34
+61            android:exported="true" >
+61-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:44:13-36
+62            <intent-filter>
+62-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:45:13-49:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:46:17-69
+63-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:46:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:48:17-77
+65-->D:\Final\Fire_Major_Notification\app\src\main\AndroidManifest.xml:48:27-74
+66            </intent-filter>
+67        </activity>
+68
+69        <service
+69-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\ded54bac8827fbfd5deb7e97c318d8b9\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:11:9-17:19
+70            android:name="com.google.firebase.components.ComponentDiscoveryService"
+70-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\ded54bac8827fbfd5deb7e97c318d8b9\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:12:13-84
+71            android:directBootAware="true"
+71-->[com.google.firebase:firebase-common:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\6e4d2683664852057749050a449540a6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+72            android:exported="false" >
+72-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\ded54bac8827fbfd5deb7e97c318d8b9\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:13:13-37
+73            <meta-data
+73-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\ded54bac8827fbfd5deb7e97c318d8b9\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:14:13-16:85
+74                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+74-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\ded54bac8827fbfd5deb7e97c318d8b9\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:15:17-124
+75                android:value="com.google.firebase.components.ComponentRegistrar" />
+75-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\ded54bac8827fbfd5deb7e97c318d8b9\transformed\jetified-firebase-database-ktx-20.1.0\AndroidManifest.xml:16:17-82
+76            <meta-data
+76-->[com.google.firebase:firebase-database:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\65f648fbaace0661c5edeb4042b0debb\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+77                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+77-->[com.google.firebase:firebase-database:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\65f648fbaace0661c5edeb4042b0debb\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+78                android:value="com.google.firebase.components.ComponentRegistrar" />
+78-->[com.google.firebase:firebase-database:20.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\65f648fbaace0661c5edeb4042b0debb\transformed\jetified-firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+79            <meta-data
+79-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\db243a24f71d98614342aa8cf8c86177\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+80                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+80-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\db243a24f71d98614342aa8cf8c86177\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:15:17-113
+81                android:value="com.google.firebase.components.ComponentRegistrar" />
+81-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\db243a24f71d98614342aa8cf8c86177\transformed\jetified-firebase-common-ktx-20.2.0\AndroidManifest.xml:16:17-82
+82        </service>
+83        <!--
+84 FirebaseMessagingService performs security checks at runtime,
+85             no need for explicit permissions despite exported="true"
+86        -->
+87        <service
+87-->[com.google.firebase:firebase-messaging:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2351e3af45c45b2dc5cce7f984da07f7\transformed\jetified-firebase-messaging-10.0.1\AndroidManifest.xml:23:9-27:19
+88            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+88-->[com.google.firebase:firebase-messaging:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2351e3af45c45b2dc5cce7f984da07f7\transformed\jetified-firebase-messaging-10.0.1\AndroidManifest.xml:23:18-87
+89            android:exported="true" >
+89-->[com.google.firebase:firebase-messaging:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2351e3af45c45b2dc5cce7f984da07f7\transformed\jetified-firebase-messaging-10.0.1\AndroidManifest.xml:23:88-111
+90            <intent-filter android:priority="-500" >
+90-->[com.google.firebase:firebase-messaging:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2351e3af45c45b2dc5cce7f984da07f7\transformed\jetified-firebase-messaging-10.0.1\AndroidManifest.xml:24:13-26:29
+90-->[com.google.firebase:firebase-messaging:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2351e3af45c45b2dc5cce7f984da07f7\transformed\jetified-firebase-messaging-10.0.1\AndroidManifest.xml:24:28-51
+91                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+91-->[com.google.firebase:firebase-messaging:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2351e3af45c45b2dc5cce7f984da07f7\transformed\jetified-firebase-messaging-10.0.1\AndroidManifest.xml:25:17-77
+91-->[com.google.firebase:firebase-messaging:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2351e3af45c45b2dc5cce7f984da07f7\transformed\jetified-firebase-messaging-10.0.1\AndroidManifest.xml:25:25-75
+92            </intent-filter>
+93        </service>
+94
+95        <receiver
+95-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:30:9-36:20
+96            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+96-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:30:19-84
+97            android:exported="true"
+97-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:30:85-108
+98            android:permission="com.google.android.c2dm.permission.SEND" >
+98-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:30:109-169
+99            <intent-filter>
+99-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:31:13-35:29
+100                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+100-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:32:17-80
+100-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:32:25-78
+101                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+101-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:33:17-85
+101-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:33:25-83
+102
+103                <category android:name="com.example.root.fire_major_notification" />
+103-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:34:17-60
+103-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:34:27-58
+104            </intent-filter>
+105        </receiver>
+106        <!--
+107 Internal (not exported) receiver used by the app to start its own exported services
+108             without risk of being spoofed.
+109        -->
+110        <receiver
+110-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:40:9-119
+111            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+111-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:40:19-92
+112            android:exported="false" />
+112-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:40:93-117
+113        <!--
+114 FirebaseInstanceIdService performs security checks at runtime,
+115             no need for explicit permissions despite exported="true"
+116        -->
+117        <service
+117-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:44:9-48:19
+118            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+118-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:44:18-82
+119            android:exported="true" >
+119-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:44:83-106
+120            <intent-filter android:priority="-500" >
+120-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:45:13-47:29
+120-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:45:28-51
+121                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+121-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:46:17-79
+121-->[com.google.firebase:firebase-iid:10.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\51b205e8f3c821cec81c4217c58b20be\transformed\jetified-firebase-iid-10.0.1\AndroidManifest.xml:46:25-77
+122            </intent-filter>
+123        </service>
+124
+125        <provider
+125-->[com.google.firebase:firebase-common:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\6e4d2683664852057749050a449540a6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+126            android:name="com.google.firebase.provider.FirebaseInitProvider"
+126-->[com.google.firebase:firebase-common:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\6e4d2683664852057749050a449540a6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+127            android:authorities="com.example.root.fire_major_notification.firebaseinitprovider"
+127-->[com.google.firebase:firebase-common:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\6e4d2683664852057749050a449540a6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+128            android:directBootAware="true"
+128-->[com.google.firebase:firebase-common:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\6e4d2683664852057749050a449540a6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+129            android:exported="false"
+129-->[com.google.firebase:firebase-common:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\6e4d2683664852057749050a449540a6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+130            android:initOrder="100" />
+130-->[com.google.firebase:firebase-common:20.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\6e4d2683664852057749050a449540a6\transformed\jetified-firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+131
+132        <activity
+132-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2080b157047e6cee086395f5ecd164a5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+133            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+133-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2080b157047e6cee086395f5ecd164a5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+134            android:exported="false"
+134-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2080b157047e6cee086395f5ecd164a5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+135            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+135-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\anhqu\.gradle\caches\transforms-3\2080b157047e6cee086395f5ecd164a5\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+136
+137        <meta-data
+137-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\c869eeb2af2ed25415dcfc77e08fbd82\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+138            android:name="com.google.android.gms.version"
+138-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\c869eeb2af2ed25415dcfc77e08fbd82\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+139            android:value="@integer/google_play_services_version" />
+139-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\anhqu\.gradle\caches\transforms-3\c869eeb2af2ed25415dcfc77e08fbd82\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+140
+141        <provider
+141-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\a2d361b5b35ca7df841c3e3f8f069642\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+142            android:name="androidx.startup.InitializationProvider"
+142-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\a2d361b5b35ca7df841c3e3f8f069642\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+143            android:authorities="com.example.root.fire_major_notification.androidx-startup"
+143-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\a2d361b5b35ca7df841c3e3f8f069642\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+144            android:exported="false" >
+144-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\a2d361b5b35ca7df841c3e3f8f069642\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+145            <meta-data
+145-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\a2d361b5b35ca7df841c3e3f8f069642\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+146                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+146-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\a2d361b5b35ca7df841c3e3f8f069642\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+147                android:value="androidx.startup" />
+147-->[androidx.emoji2:emoji2:1.2.0] C:\Users\anhqu\.gradle\caches\transforms-3\a2d361b5b35ca7df841c3e3f8f069642\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+148            <meta-data
+148-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\anhqu\.gradle\caches\transforms-3\238a39fbee9bf0b24f58c7c23ad34978\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+149                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+149-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\anhqu\.gradle\caches\transforms-3\238a39fbee9bf0b24f58c7c23ad34978\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+150                android:value="androidx.startup" />
+150-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\anhqu\.gradle\caches\transforms-3\238a39fbee9bf0b24f58c7c23ad34978\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+151        </provider>
+152    </application>
+153
+154</manifest>

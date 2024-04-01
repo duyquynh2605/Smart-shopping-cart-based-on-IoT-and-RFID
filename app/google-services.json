@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348260072437",
+    "firebase_url": "https://datn-53104-default-rtdb.firebaseio.com",
+    "project_id": "datn-53104",
+    "storage_bucket": "datn-53104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348260072437:android:582d0579809e98ac54bebc",
+        "android_client_info": {
+          "package_name": "com.example.root.fire_major_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348260072437-h2dvim43o466mqr2clggumdhgldafem0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOCUSD0PV5YNmMuswSCev48gQFzVCIAts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348260072437-h2dvim43o466mqr2clggumdhgldafem0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#7FCDF1"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="160dp"
+        android:background="@drawable/usa"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <EditText
+        android:id="@+id/user"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/viennau"
+        android:drawableLeft="@drawable/usse"
+        android:ems="100"
+        android:hint="Tên đăng nhập"
+        android:inputType="textPersonName"
+        android:paddingLeft="10dp"
+        android:textColor="#ffff"
+        android:textColorHint="#A3A0A0"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <EditText
+        android:id="@+id/pss"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/viennau"
+        android:drawableLeft="@drawable/ps"
+        android:ems="10"
+        android:hint="Mật khẩu"
+        android:inputType="textPassword"
+        android:paddingLeft="10dp"
+        android:textColor="#ffff"
+        android:textColorHint="#A3A0A0"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/dkk"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/checkBox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/viennau"
+        android:text="Đăng nhập"
+        android:textColor="#ffff"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <Button
+        android:id="@+id/lgdk"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/checkBox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="75dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/viennau"
+        android:text="Đăng kí"
+        android:textColor="#ffff"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/pss"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="5dp"
+        android:text="Lưu mật khẩu"
+        android:textColor="#ffff"
+        tools:ignore="TouchTargetSizeCheck" />
+
+</RelativeLayout>

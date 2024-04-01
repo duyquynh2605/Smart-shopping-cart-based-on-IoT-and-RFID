@@ -1,0 +1,10 @@
+#Sat Apr 15 19:33:38 GMT+07:00 2023
+base.2=C\:\\Users\\Admin\\AndroidStudioProjects\\Fire_Major_Notification\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\8\\classes.dex
+path.2=8/classes.dex
+base.1=C\:\\Users\\Admin\\AndroidStudioProjects\\Fire_Major_Notification\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.1=0/classes.dex
+base.0=C\:\\Users\\Admin\\AndroidStudioProjects\\Fire_Major_Notification\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

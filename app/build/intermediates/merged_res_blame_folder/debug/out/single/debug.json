@@ -1,0 +1,906 @@
+[
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_sleeping.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\sleeping.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_keys.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\keys.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_sangs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\sangs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_canhbao.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\canhbao.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_activity_add_member.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\activity_add_member.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_qls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\qls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_qls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\qls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_ps.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_lighton.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\lighton.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_garden.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\garden.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_quaylai.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\quaylai.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_iph.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\iph.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_log.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\log.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_wifi.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_pngu.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\pngu.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_clocks.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\clocks.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_wfs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\wfs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_groceries.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\groceries.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_activity_dk_nhanvien.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\activity_dk_nhanvien.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_fop.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\fop.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_fanon.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\fanon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_dns.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\dns.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_ic_baseline_payments_24.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\ic_baseline_payments_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_viennau_sua.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\viennau_sua.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_quaylai.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\quaylai.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_wfs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\wfs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_ngungon.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\ngungon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ps.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_nd.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\nd.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_themnguoi.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\themnguoi.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_user.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_ls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\ls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_luaa.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\luaa.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_canhbao.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\canhbao.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_qls.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\qls.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_sangs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\sangs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_khoc.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\khoc.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_adongcua.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\adongcua.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_ps.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\ps.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_psa.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\psa.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_ii.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\ii.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_wfs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\wfs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_sangs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\sangs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_cds.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\cds.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_wf.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\wf.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_cgas.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\cgas.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_mokhoa.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\mokhoa.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_ps.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_keys.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\keys.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_khoa2.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\khoa2.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_smile.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\smile.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_luu.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\luu.png"
+    },
+    {
+        "merged": "com.example.root.fire_major_notification.app-merged_res-33:/drawable_box2.xml.flat",
+        "source": "com.example.root.fire_major_notification.app-main-35:/drawable/box2.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_firea.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\firea.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_caidat.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\caidat.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_wifi.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_ph.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\ph.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_cds.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\cds.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_pss.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\pss.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-hdpi_ic_launcher2.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-hdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_ic_baseline_list_alt_24.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\ic_baseline_list_alt_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_chitiet.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\chitiet.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_box4.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\box4.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_ps.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_wifi.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_login.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_pss.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\pss.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_cuadong.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\cuadong.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_fireb.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\fireb.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_usse.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\usse.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ara.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ara.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_qls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\qls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_khoa.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\khoa.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_cuaa.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\cuaa.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_quaylai.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\quaylai.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_itemhoadon.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\itemhoadon.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_bump2.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\bump2.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_stethoscope.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\stethoscope.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ngas.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ngas.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_pss.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\pss.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_sp.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\sp.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_l1.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\l1.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_border.9.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_sangs.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\sangs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_fragment_gian_b.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\fragment_gian_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_wifi.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_usse.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\usse.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_day.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\day.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_itemhang.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\itemhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_quaylai.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\quaylai.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_pss.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\pss.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_thucday.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\thucday.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_chitiet.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\chitiet.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_dr1.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\dr1.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_fanof.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\fanof.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_pump2.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\pump2.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_ds.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\ds.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_fragment_gian_a.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\fragment_gian_a.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_ngu.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\ngu.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_itemhang2.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\itemhang2.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_ls.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\ls.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_doctor.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_fo.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\fo.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_usse.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\usse.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_akhoacuamo.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\akhoacuamo.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_usa.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\usa.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_dropen.gif.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\dropen.gif"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_ic_baseline_person_add_alt_1_24.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\ic_baseline_person_add_alt_1_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_p1.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\p1.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_canhbao.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\canhbao.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_a.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_thermometer.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\thermometer.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_activity_lichsucua.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\activity_lichsucua.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_fragment_gian_c.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\fragment_gian_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_mkn.jpg.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\mkn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_wf.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\wf.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_qrcode.jpg.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\qrcode.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_his.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\his.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_firea.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\firea.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_pkhach.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\pkhach.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_wf.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\wf.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_unnamed.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\unnamed.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_ido.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\ido.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_viennau.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\viennau.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_wf.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\wf.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_gas.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\gas.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_akhoacua.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\akhoacua.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_keys.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\keys.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_adoor.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\adoor.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_chitiet.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\chitiet.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_usse.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\usse.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_lightoff.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\lightoff.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_wfs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\wfs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_cuab.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\cuab.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_fragment_check_mem.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\fragment_check_mem.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_ic_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_activity_ls_hoadon.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\activity_ls_hoadon.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_fireb.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\fireb.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_usse.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\usse.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_gass.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\gass.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_tie.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\tie.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_pss.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\pss.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ws.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ws.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_gasp.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\gasp.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_fire.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\fire.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_sangs.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\sangs.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_amocua.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\amocua.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_o1.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\o1.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_avao.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\avao.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_ppps.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\ppps.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_cds.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\cds.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_pbep.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\pbep.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_add.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_nenbottom.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\nenbottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\menu_main.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_heart.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_cdlon.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\cdlon.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_canhbao.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\canhbao.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_ls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\ls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_ls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\ls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_sot.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\sot.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_binhthuong.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\binhthuong.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_humidity.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_dc.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\dc.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-hdpi_ic_launchers.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-hdpi\\ic_launchers.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_lcok.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\lcok.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_wifi.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_cuadb.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\cuadb.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_activity_qrcode.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_chitiet.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\chitiet.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_cds.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\cds.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi-v11_box3.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi-v11\\box3.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_activity_gianhang.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\activity_gianhang.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_qls.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\qls.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_dck.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\dck.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_cds.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\cds.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_sadoor.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\sadoor.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v11_nendep.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v11\\nendep.xml"
+    },
+    {
+        "merged": "com.example.root.fire_major_notification.app-merged_res-33:/drawable_box4.xml.flat",
+        "source": "com.example.root.fire_major_notification.app-main-35:/drawable/box4.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_pump.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\pump.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ntc.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ntc.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_ocua.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\ocua.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_back.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_b.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable_khung.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable\\khung.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_ps.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\ps.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_keys.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\keys.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_wf.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\wf.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_wfs.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\wfs.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-anydpi_canhbao.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-anydpi\\canhbao.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_ts.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\ts.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_chitiet.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\chitiet.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_ic_stat_name.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_luab.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\luab.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_drlock.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\drlock.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi-v9_bump.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi-v9\\bump.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_keys.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\keys.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_css.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\css.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xxhdpi_scroll.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xxhdpi\\scroll.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_quay.jpg.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\quay.jpg"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi_quaylai.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi\\quaylai.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v9_cuamo.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v9\\cuamo.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-hdpi_op1.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-hdpi\\op1.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-xhdpi-v11_nguday.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-xhdpi-v11\\nguday.png"
+    },
+    {
+        "merged": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-merged_res-33:\\drawable-mdpi_lk.png.flat",
+        "source": "C:\\Users\\anhqu\\.gradle\\daemon\\7.3.3\\com.example.root.fire_major_notification.app-main-35:\\drawable-mdpi\\lk.png"
+    }
+]

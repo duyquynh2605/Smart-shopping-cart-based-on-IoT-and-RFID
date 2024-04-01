@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.root.fire_major_notification.app-mergeDebugResources-31:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\anhqu\\.gradle\\caches\\transforms-3\\a9857f41c1ba085e7482a1221eea6d3b\\transformed\\appcompat-1.5.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
